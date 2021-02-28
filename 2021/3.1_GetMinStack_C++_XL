@@ -1,0 +1,70 @@
+#include <iostream>
+#include <map>
+#define MAXN 1000010
+using namespace std;
+
+int Stake[MAXN], idx = 0;
+map<int, int> mp;
+
+void Push(int X)
+{
+    Stake[idx++] = X;
+    if(mp.find(X) == mp.end())
+    {
+        mp[X] = 1;
+    }
+    else
+    {
+        ++mp[X];
+    }
+}
+
+void Pop()
+{
+    if(idx == 0)    return;
+    --idx;
+    if(mp[Stake[idx]] == 1)
+    {
+        mp.erase(Stake[idx]);
+    }
+    else
+    {
+        --mp[Stake[idx]];
+    }
+}
+
+void GetMin()
+{
+    cout<<mp.begin()->first<<endl;
+}
+
+
+int main()
+{
+    ios::sync_with_stdio(false);
+    int N, X;
+    string s;
+    cin>>N;
+    while(N--)
+    {
+        cin>>s;
+        if(s[0] == 'p')
+        {
+            if(s == "push")
+            {
+                cin>>X;
+                Push(X);
+            }
+            else
+            {
+                Pop();
+            }
+        }
+        else
+        {
+            GetMin();
+        }
+    }
+    
+    return 0;
+}
