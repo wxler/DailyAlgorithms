@@ -1,3 +1,15 @@
 test.txt
 bak.gitignore
 depoly.txt
+
+#--------------------clion------------------------------
+#----------build----------
+build/
+cmake-build-debug/
+
+#----------idea----------
+*.iml
+.idea/
+*.ipr
+*.iws
+#--------------------clion------------------------------
