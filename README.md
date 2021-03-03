@@ -35,6 +35,7 @@
 
 | 时间 | 题目                                            | 知识点   | 难度         | 在线OJ                                                       |
 | :--- | ----------------------------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 3.4 | [猫狗队列](2021/3.4_CatAndDogQueue.md) | 队列 | :star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/8a7e04cff6a54b7095b94261d78108f5?tpId=101&tqId=33168&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.3  | [用递归函数和栈逆序一个栈](2021/3.3_StackReverse.md) | 递归、栈 |              :star::star:| [点击跳转OJ](https://www.nowcoder.com/practice/1de82c89cc0e43e9aa6ee8243f4dbefd?tpId=101&tqId=33075&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.2  | [由两个栈组成的队列](2021/3.2_Stack2ToQueue.md) | 栈、队列 | :star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/6bc058b32ee54a5fa18c62f29bae9863?tpId=101&tqId=33074&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.1  | [设计getMin功能的栈](2021/3.1_GetMinStack.md)   | 栈       | :star:       | [点击跳转OJ](https://www.nowcoder.com/practice/05e57ce2cd8e4a1eae8c3b0a7e9886be?tpId=101&tqId=33073&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
