@@ -35,6 +35,7 @@
 
 | 时间 | 题目                                            | 知识点   | 难度         | 在线OJ                                                       |
 | :--- | ----------------------------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 3.6 | [用栈来求解汉诺塔问题](2021/3.6_StackAndHanNuoTa.md) | 递归、栈 | :star::star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/1a2f618b3433487295657b3414f4e7c4?tpId=101&tqId=33090&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.5 | [用一个栈实现另一个栈的排序](2021/3.5_StackSort.md) | 排序、栈 |  :star::star:| [点击跳转OJ](https://www.nowcoder.com/practice/ff8cba64e7894c5582deafa54cca8ff2?tpId=101&tqId=33081&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.4 | [猫狗队列](2021/3.4_CatAndDogQueue.md) | 队列 | :star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/8a7e04cff6a54b7095b94261d78108f5?tpId=101&tqId=33168&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.3  | [用递归函数和栈逆序一个栈](2021/3.3_StackReverse.md) | 递归、栈 |              :star::star:| [点击跳转OJ](https://www.nowcoder.com/practice/1de82c89cc0e43e9aa6ee8243f4dbefd?tpId=101&tqId=33075&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
