@@ -35,6 +35,7 @@
 
 | 时间 | 题目                                            | 知识点   | 难度         | 在线OJ                                                       |
 | :--- | ----------------------------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 3.10 | [最大值减去最小值小于或等于num的子数组数量](2021/3.10_MaxSubMinArr.md) | 队列 | :star::star::star: | [点击在线OJ](https://www.nowcoder.com/practice/5fe02eb175974e18b9a546812a17428e?tpId=101&tqId=33086&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.9 | [求最大子矩阵的大小](2021/3.9_MaxRect.md) | 栈、最大子矩阵 | :star::star::star: | [点击在线OJ](https://www.nowcoder.com/practice/ed610b2fea854791b7827e3111431056?tpId=101&tqId=33084&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.8 | [单调栈结构](2021/3.8_MonoStack.md) | 栈 |:star::star:  | [点击跳转OJ](https://www.nowcoder.com/practice/e3d18ffab9c543da8704ede8da578b55?tpId=101&tqId=33169&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 3.7 | [生成窗口最大值数组](2021/3.7_MaxValueArray.md) | 队列 | :star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/b316c7f9617744b98fa311ae29ac516c?tpId=101&tqId=33083&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
