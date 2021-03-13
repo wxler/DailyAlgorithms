@@ -35,6 +35,19 @@
 
 > 题目满星​为:star::star::star::star:，请合理安排时间。
 
+
+
+### 专题二：链表问题
+
+| 时间 | 题目                                                         | 知识点 | 难度         | 在线OJ                                                       |
+| :--- | ------------------------------------------------------------ | ------ | ------------ | ------------------------------------------------------------ |
+| 3.13 | [在链表中删除倒数第K个节点](2021/chapter2/3.13_PrintLastKList.md) | 链表   | :star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/e5d90aac4c8b4628aa70d9b6597c0560?tpId=101&tqId=33117&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
+| 3.12 | [打印两个升序链表的公共部分](2021/chapter2/3.12_PublicPrint.md) | 链表   | :star:       | [点击在线OJ](https://www.nowcoder.com/practice/8943eea40dbb4185b187d80fd050fee9?tpId=101&tqId=33116&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
+
+<br>
+
+### 专题一：栈和队列
+
 | 时间 | 题目                                            | 知识点   | 难度         | 在线OJ                                                       |
 | :--- | ----------------------------------------------- | -------- | ------------ | ------------------------------------------------------------ |
 | 3.11 | [可见的山峰对数量(进阶)](2021/3.11_VisibleMountains.md) | 栈 | :star::star::star::star: | [点击在线OJ](https://www.nowcoder.com/practice/16d1047e9fa54cea8b5170b156d89e38?tpId=101&tqId=33173&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
