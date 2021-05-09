@@ -41,6 +41,7 @@
 
 | 时间 | 题目                                                         | 知识点 | 难度         | 在线OJ                                                       |
 | :--- | ------------------------------------------------------------ | ------ | ------------ | ------------------------------------------------------------ |
+| 5.9 | [将搜索二叉树转换成双向链表](2021/chapter2/5.9_BTreeConvertLinkList.md) | 二叉树、链表 | :star::star: |  [点击跳转OJ](https://www.nowcoder.com/practice/2d3188a7e3ce4af2a9ebd5b89843fced?tpId=101&tqId=33224&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey)|
 | 5.8 | [单链表的选择排序](2021/chapter2/5.8_listSelectRank.md) | 链表 | :star: |  [点击跳转OJ](https://www.nowcoder.com/practice/78f83c3f12d2464591ebc5a73183db35?tpId=101&tqId=33207&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey)|
 | 5.7（2） | [在链表中删除指定值的节点](2021/chapter2/5.7.2_DeleteAppointValue.md) | 链表 | :star: | [点击跳转OJ](https://www.nowcoder.com/practice/1a5fd679e31f4145a10d46bb8fd3d211?tpId=101&tqId=33206&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 | 5.7 | [删除无序链表中值重复出现的节点](2021/chapter2/5.7_DeleteRepeatValue.md) | 链表 | :star: | [点击跳转OJ](https://www.nowcoder.com/practice/fb3105d036344c6a8ecbef996e0b23a0?tpId=101&tqId=33205&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
