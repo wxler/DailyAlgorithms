@@ -41,6 +41,7 @@
 
 | 时间      | 题目                                                         | 知识点     | 难度               | 在线OJ                                                       |
 | --------- | ------------------------------------------------------------ | ---------- | ------------------ | ------------------------------------------------------------ |
+| 6.1       | [根据后序数组重建搜索二叉树](2021/chapter3/6.1_JudgeBSTRank.md) | 二叉搜索树 | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/f83d11c38a974cbc8973a10086be60f3?tpId=101&&tqId=33241&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 5.31（3） | [判断二叉树是否为平衡二叉树](2021/chapter3/5.31.3_JudgeAVGBT.md) | 平衡二叉树 | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/0d7b90d3cf454062942ff9376e1c8b7e?tpId=101&&tqId=33240&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 5.31（2） | [判断t1树中是否有与t2树拓扑结构完全相同的子树](2021/chapter3/5.31.2_FindSubTree.md) | 二叉树     | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/5a41ce17e8194e1688aa83a73137f7ee?tpId=101&&tqId=33239&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 5.31      | [判断t1树是否包含t2树全部的拓扑结构](2021/chapter3/5.31_GetSubBTTology.md) | 二叉树     | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/c9fe427263844505b82c6ebb7336d04a?tpId=101&&tqId=33238&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
