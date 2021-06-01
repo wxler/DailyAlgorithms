@@ -41,6 +41,8 @@
 
 | 时间      | 题目                                                         | 知识点     | 难度               | 在线OJ                                                       |
 | --------- | ------------------------------------------------------------ | ---------- | ------------------ | ------------------------------------------------------------ |
+| 6.1（3）  | [通过有序数组生成平衡搜索二叉树](2021/chapter3/6.1.3_CreateBSTBySortArr.md) | 二叉搜索树 | :star::star:       |                                                              |
+| 6.1（2）  | [判断一棵二叉树是否为搜索二叉树和完全二叉树](2021/chapter3/6.1.2_JudgeBSTAndWholeBT.md) | 完全二叉树 | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/4e271d590b564a61a03d04c5d9c6b6e3?tpId=101&&tqId=33242&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 6.1       | [根据后序数组重建搜索二叉树](2021/chapter3/6.1_JudgeBSTRank.md) | 二叉搜索树 | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/f83d11c38a974cbc8973a10086be60f3?tpId=101&&tqId=33241&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 5.31（3） | [判断二叉树是否为平衡二叉树](2021/chapter3/5.31.3_JudgeAVGBT.md) | 平衡二叉树 | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/0d7b90d3cf454062942ff9376e1c8b7e?tpId=101&&tqId=33240&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 5.31（2） | [判断t1树中是否有与t2树拓扑结构完全相同的子树](2021/chapter3/5.31.2_FindSubTree.md) | 二叉树     | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/5a41ce17e8194e1688aa83a73137f7ee?tpId=101&&tqId=33239&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
