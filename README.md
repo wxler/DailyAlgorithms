@@ -41,6 +41,9 @@
 
 | 时间      | 题目                                                         | 知识点     | 难度               | 在线OJ                                                       |
 | --------- | ------------------------------------------------------------ | ---------- | ------------------ | ------------------------------------------------------------ |
+| 6.3（3）  | [求二叉树的两个给定节点之间的最小距离](2021/chapter3/6.2.3_findTwoNodesMinDistance.md) | 二叉树     | :star::star::star: |                                                              |
+| 6.2（2）  | [二叉树节点间的最大距离问题](2021/chapter3/6.2.2_findMaxDistance.md) | 二叉树     | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/88331be6da0d40749b068586dc0a2a8b?tpId=101&&tqId=33247&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
+| 6.2       | [在二叉树中找到两个节点的最近公共祖先](2021/chapter3/6.2_findAncestorNode.md) | 二叉树     | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/c75deef6d4bf40249c785f240dad4247?tpId=101&tqId=33243&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking) |
 | 6.1（3）  | [通过有序数组生成平衡搜索二叉树](2021/chapter3/6.1.3_CreateBSTBySortArr.md) | 二叉搜索树 | :star::star:       |                                                              |
 | 6.1（2）  | [判断一棵二叉树是否为搜索二叉树和完全二叉树](2021/chapter3/6.1.2_JudgeBSTAndWholeBT.md) | 完全二叉树 | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/4e271d590b564a61a03d04c5d9c6b6e3?tpId=101&&tqId=33242&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 6.1       | [根据后序数组重建搜索二叉树](2021/chapter3/6.1_JudgeBSTRank.md) | 二叉搜索树 | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/f83d11c38a974cbc8973a10086be60f3?tpId=101&&tqId=33241&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
