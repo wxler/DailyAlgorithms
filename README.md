@@ -41,6 +41,10 @@
 
 | 时间      | 题目                                                         | 知识点     | 难度               | 在线OJ                                                       |
 | --------- | ------------------------------------------------------------ | ---------- | ------------------ | ------------------------------------------------------------ |
+| 6.9（2） | [统计和生成所有不同的二叉树（进阶版）](2021/chapter3/6.9.2_GenAllBTImprove.md) | 二叉树 | :star::star::star: |  |
+| 6.9 | [统计和生成所有不同的二叉树](2021/chapter3/6.9_GenAllBT.md) | 二叉树 | :star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/3975b2a794ee419aa927b24f6495c7d6?tpId=101&&tqId=33249&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
+| 6.8（2）  | [通过先序和中序数组生成后序数组](2021/chapter3/6.8.2_CreatePosArrByPreIn.md) | 二叉树     | :star::star: | [点击跳转OJ](https://www.nowcoder.com/practice/5ae5174f17674e458028ce12bc8bfe0b?tpId=101&&tqId=33248&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
+| 6.8       | [前序数组、中序数组、后序数组两两结合重构二叉树](2021/chapter3/6.8_PreInPosCreateBT.md) | 二叉树     | :star::star:             |                                                              |
 | 6.3       | [派对的最大快乐值](2021/chapter3/6.3_getMaxHappyValue.md)    | 多叉树     | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/a5f542742fe24181b28f7d5b82e2e49a?tpId=101&&tqId=33255&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 | 6.2（3）  | [求二叉树的两个给定节点之间的最小距离](2021/chapter3/6.2.3_findTwoNodesMinDistance.md) | 二叉树     | :star::star::star: |                                                              |
 | 6.2（2）  | [二叉树节点间的最大距离问题](2021/chapter3/6.2.2_findMaxDistance.md) | 二叉树     | :star::star:       | [点击跳转OJ](https://www.nowcoder.com/practice/88331be6da0d40749b068586dc0a2a8b?tpId=101&&tqId=33247&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
